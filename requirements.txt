@@ -1,0 +1,14 @@
+NumPy
+Used for numerical computations, arrays, and mathematical operations.
+
+Pandas
+Used for loading, cleaning, and manipulating the Steam Games dataset.
+
+Matplotlib
+Used for creating visualizations such as cluster plots, Elbow Method graphs, PCA plots, and anomaly detection plots.
+
+Scikit-Learn
+Used to implement machine learning algorithms including K-Means, Hierarchical Clustering, DBSCAN, PCA, Isolation Forest, StandardScaler, Silhouette Score, and Davies-Bouldin Index.
+
+SciPy
+Used for generating and visualizing the dendrogram in Hierarchical Clustering.
